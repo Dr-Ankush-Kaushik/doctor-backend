@@ -1,0 +1,18 @@
+{
+    "mongoURI": "mongodb+srv://root:root@cluster0.cmldhhd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret": "jwt-secret",
+    "fromname": "DigiClinik Appointments",
+    "fromemail": "appointments@digiclinik.io",
+    "toemail": "treateephysiotherapy@gmail.com",
+    "ccemail": "contact@digiclinik.io",
+    "bccemail": "contact@digiclinik.io",
+    "password": "zuyvrawkdehwbzyq",
+    "smsAPI": "smsAPI",
+    "whatsApp": "whatsApp",
+    "enableAuth": false,
+    "enablelogs": false,
+    "isProd": true,
+    "api": "api",
+    "razorpayUrl": "razorpayUrl",
+    "appointmentDuration": "30"
+}
