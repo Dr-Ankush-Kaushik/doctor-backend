@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://root:root@cluster0.cmldhhd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "mongoURI": "mongodb+srv://root:root@cluster0.cmldhhd.mongodb.net/dr_ankush_kaushik?retryWrites=true&w=majority&appName=Cluster0",
     "jwtSecret": "jwt-secret",
     "fromname": "DigiClinik Appointments",
     "fromemail": "appointments@digiclinik.io",
